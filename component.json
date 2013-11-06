@@ -1,0 +1,16 @@
+{
+  "name": "jquery-transloadit",
+  "repo": "rschmukler/jquery-transloadit",
+  "description": "TransloadIt jQuery Plugin",
+  "version": "0.0.1",
+  "keywords": [
+    "transloadit",
+    "jquery"
+  ],
+  "dependencies": {},
+  "development": {},
+  "main": "build/jquery.transloadit.js",
+  "scripts": [
+    "build/jquery.transloadit.js"
+  ]
+}
